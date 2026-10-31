@@ -1,225 +1,275 @@
-<!-- ========================================= -->
-<!-- JOHNY.EXE // GITHUB PROFILE README       -->
-<!-- SYSTEM INITIALIZED                        -->
-<!-- ========================================= -->
+<!-- ================================================= -->
+<!-- JOHNY.EXE // DIGITAL UNDERGROUND               -->
+<!-- VERSION 2.0                                     -->
+<!-- ================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:101010,100:00FF66&height=180&section=header&text=JOHNY.EXE&fontSize=65&fontColor=00FF66&animation=fadeIn&fontAlignY=38&desc=SYSTEM%20ONLINE%20%2F%2F%20WELCOME%20TO%20MY%20WORLD&descAlignY=60&descSize=13"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020403,30:071A0C,70:063D20,100:00FF66&height=220&section=header&text=JOHNY.EXE&fontSize=75&fontColor=00FF66&animation=fadeIn&fontAlignY=38&desc=ENTERING%20THE%20DIGITAL%20UNDERGROUND...&descAlignY=60&descSize=14"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=18&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=Welcome+to+my+little+corner+of+the+internet.;Currently+debugging+my+own+existence...;Building+things%2C+breaking+things.;404%3A+Normality+not+found." />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=18&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=SYSTEM+BOOTING...;WELCOME+TO+JOHNY.EXE;404%3A+NORMALITY+NOT+FOUND;CREATING+SOMETHING+OUT+OF+NOTHING;IDEAS+ARE+MY+FAVORITE+BUGS."/>
 
-<br>
+<br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=hazuz-exe&color=00ff66&style=flat-square&label=PROFILE+VISITORS)
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00ff66?style=flat-square)
-![Mood](https://img.shields.io/badge/MOOD-QUESTIONABLE-ff3333?style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=hazuz-exe&style=for-the-badge&color=00ff66&label=VISITORS"/>
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ff66?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/MODE-DIGITAL_UNDERGROUND-111111?style=for-the-badge&logo=hackthebox&logoColor=00ff66"/>
 
 </div>
 
 ---
 
-## `> whoami`
+<div align="center">
+
+# `01 // ACCESS GRANTED`
+
+**WELCOME TO MY LITTLE CORNER OF THE INTERNET.**
+
+</div>
 
 ```bash
-$ whoami
-johny
-
-$ current_status
-Learning, creating and experimenting.
-
-$ personality
-Curious mind. Questionable ideas. Good intentions.
-
-$ location
-Somewhere on the internet.
+┌───────────────────────────────────────────────┐
+│ JOHNY.EXE // USER IDENTIFICATION              │
+├───────────────────────────────────────────────┤
+│                                               │
+│ USERNAME   : johny                            │
+│ ALIAS      : hazuz-exe                        │
+│ OCCUPATION : Technology Student               │
+│ STATUS     : Learning / Creating / Exploring  │
+│ LOCATION   : Somewhere on the internet        │
+│                                               │
+│ INTERESTS  : Technology, Games & Creativity   │
+│                                               │
+└───────────────────────────────────────────────┘
 ```
 
-### 🇺🇸 English
+### 🇺🇸 ABOUT ME
 
-Hey! I'm Johny, a technology student who enjoys exploring the digital world, creating random projects and turning weird ideas into something real.
+Hey! I'm Johny, a technology student interested in web development, creative projects, gaming and digital experimentation.
 
-I'm interested in web development, creative projects, gaming and pretty much anything that makes me curious.
+I enjoy exploring new ideas, building random things and turning concepts into actual projects.
 
-I don't have everything figured out. Actually, that's kind of the point.
+I'm not here pretending to know everything. I'm here to learn, experiment and create things that are worth sharing.
 
-### 🇧🇷 Português
+### 🇧🇷 SOBRE MIM
 
-E aí! Eu sou o Johny, estudante de tecnologia que gosta de explorar o mundo digital, criar projetos aleatórios e transformar ideias malucas em alguma coisa real.
+E aí! Eu sou o Johny, estudante de tecnologia interessado em desenvolvimento web, projetos criativos, jogos e experimentação digital.
 
-Tenho interesse em desenvolvimento web, projetos criativos, jogos e praticamente qualquer coisa que desperte minha curiosidade.
+Gosto de explorar ideias, construir coisas aleatórias e transformar conceitos em projetos de verdade.
 
-Não tenho tudo planejado. Na verdade, esse é meio que o objetivo.
+Não estou aqui fingindo saber tudo. Estou aqui para aprender, experimentar e criar coisas que valham a pena compartilhar.
 
 ---
 
-## `> root_access.exe`
-
 <div align="center">
 
-<table>
+# `02 // SKILL DATABASE`
+
+<text>DEVELOPER KNOWLEDGE SCANNER</text>
+
+<img src="https://img.shields.io/badge/SCANNER-ACTIVE-00FF66?style=flat-square&labelColor=050505"/>
+
+</div>
+
+<table align="center" width="100%">
 <tr>
-<td width="100%" bgcolor="#07140B">
+<td align="center" bgcolor="#07140B">
 
-<pre>
-  JOHNY.EXE // SKILL MONITOR
-  ==========================
-  USER: HAZUZ-EXE
-  STATUS: ONLINE
-</pre>
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="45"/>
 
-<b>HTML — INTERMEDIATE / ADVANCED</b><br>
-<code><font color="#00FF66">████████</font><font color="#183322">░░</font></code> <code>80%</code>
+### HTML
+
+<img src="https://img.shields.io/badge/LEVEL-INTERMEDIATE_%2F_ADVANCED-00FF66?style=for-the-badge&labelColor=07140B"/>
+
+<img src="https://img.shields.io/badge/STATUS-UNLOCKED-00CC66?style=flat-square"/>
 
 <br>
 
-<b>CSS — INTERMEDIATE</b><br>
-<code><font color="#00FF66">██████</font><font color="#183322">░░░░</font></code> <code>60%</code>
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="45"/>
+
+### CSS
+
+<img src="https://img.shields.io/badge/LEVEL-INTERMEDIATE-00FF66?style=for-the-badge&labelColor=07140B"/>
+
+<img src="https://img.shields.io/badge/STATUS-UNLOCKED-00CC66?style=flat-square"/>
 
 <br>
 
-<b>JAVASCRIPT — BEGINNER</b><br>
-<code><font color="#00FF66">██</font><font color="#183322">░░░░░░░░</font></code> <code>20%</code>
+<img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="45"/>
 
-<pre>
-  ==========================
-  SCAN: COMPLETE
-  SYSTEM: EVOLVING...
-</pre>
+### JAVASCRIPT
+
+<img src="https://img.shields.io/badge/LEVEL-BEGINNER-FFB000?style=for-the-badge&labelColor=07140B"/>
+
+<img src="https://img.shields.io/badge/STATUS-LEARNING-FFB000?style=flat-square"/>
 
 </td>
 </tr>
 </table>
 
-</div>
-## `> projects.exe`
-
-**SELECTED PROJECTS // DEVELOPMENT LOG**
-
-### `[01] ELYTHRA`
-
-```text
-PROJECT: ELYTHRA
-TYPE: CUSTOM MINECRAFT RPG
-STATUS: IN DEVELOPMENT
-```
-
-A custom Minecraft RPG experience featuring fantasy, technology, exploration, quests and an original universe.
-
-Um servidor RPG personalizado de Minecraft, com fantasia, tecnologia, exploração, missões e um universo original.
-
-### `[02] STICKMAN FIGHTING GAME`
-
-```text
-PROJECT: STICKMAN
-TYPE: 2D FIGHTING GAME
-STATUS: IN DEVELOPMENT
-```
-
-A personal game development experiment focused on stickman combat, movement, mechanics and fighting systems.
-
-Um experimento de desenvolvimento de jogos focado em combate entre stickmans, movimentação, mecânicas e sistemas de luta.
-
-### `[03] PERSONAL PORTFOLIO`
-
-```text
-PROJECT: DIGITAL IDENTITY
-TYPE: WEB DEVELOPMENT
-STATUS: IN PROGRESS
-```
-
-A personal website exploring design, creativity and web technologies.
-
-Um site pessoal explorando design, criatividade e tecnologias web.
-
-```text
-[ SYSTEM MESSAGE ]
-
-More experiments are being developed...
-Some may work. Others may become bugs.
-
-That's part of the process.
-```
-
----
-
-## `> beyond_the_code`
-
-```text
-INTERESTS DETECTED:
-
-[+] Video Games
-[+] Creative Development
-[+] Cyberpunk Aesthetics
-[+] Internet Culture
-[+] Digital Experiments
-[+] Mystery & Investigation
-[+] Random Ideas at 3 AM
-```
-
-I believe technology isn't just about writing code.
-
-It's about creating experiences, experimenting, solving problems and sometimes spending three hours fixing something that was caused by a missing semicolon.
-
----
-
-## `> github_stats`
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hazuz-exe&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00ff66&icon_color=00ff66&text_color=c9d1d9" />
+### `> TOOLS & ENVIRONMENT`
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazuz-exe&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00ff66&text_color=c9d1d9" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,windows&theme=dark"/>
 
 </div>
 
+```text
+[SCANNER REPORT]
+
+HTML         : INTERMEDIATE / ADVANCED
+CSS          : INTERMEDIATE
+JAVASCRIPT   : BEGINNER
+
+SYSTEM MESSAGE:
+Knowledge is constantly evolving.
+Developer still under construction.
+```
+
 ---
-
-## `> final_message.txt`
-
-### 🇺🇸 English
-
-Thanks for visiting my profile!
-
-Feel free to explore my projects, check out my experiments and see what I'm working on.
-
-The system is still under development.
-
-### 🇧🇷 Português
-
-Obrigado por visitar meu perfil!
-
-Fique à vontade para explorar meus projetos, conhecer meus experimentos e acompanhar o que estou criando.
-
-O sistema ainda está em desenvolvimento.
 
 <div align="center">
 
+# `03 // PROJECT ARCHIVE`
+
+<text>SELECTED EXPERIMENTS AND DEVELOPMENT LOGS</text>
+
+</div>
+
+<table width="100%">
+<tr>
+<td align="center" width="50%">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:07140B,100:00AA55&height=100&section=header&text=ELYTHRA&fontSize=32&fontColor=FFFFFF&fontAlignY=55"/>
+
+**⚔️ ELYTHRA**
+
+`MINECRAFT // RPG PROJECT`
+
+A custom Minecraft RPG universe mixing fantasy, technology, exploration, quests and mysterious lore.
+
+<kbd>IN DEVELOPMENT</kbd>
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101010,100:333333&height=100&section=header&text=STICKMAN&fontSize=32&fontColor=00FF66&fontAlignY=55"/>
+
+**🥊 STICKMAN FIGHTING GAME**
+
+`GAME DEVELOPMENT // 2D`
+
+A personal experiment focused on stickman combat, movement, fighting mechanics and gameplay systems.
+
+<kbd>IN DEVELOPMENT</kbd>
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101010,100:063D20&height=90&section=header&text=DIGITAL%20PORTFOLIO&fontSize=27&fontColor=FFFFFF&fontAlignY=55"/>
+
+**💻 PERSONAL PORTFOLIO**
+
+`WEB DEVELOPMENT // DESIGN`
+
+A personal digital space exploring web design, creativity and technology.
+
+<kbd>IN PROGRESS</kbd>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+`[ MORE PROJECTS WILL BE DECLASSIFIED SOON ]`
+
+</div>
+
+---
+
+<div align="center">
+
+# `04 // INTEREST DATABASE`
+
+<img src="https://img.shields.io/badge/VIDEO_GAMES-ENABLED-00FF66?style=flat-square"/>
+<img src="https://img.shields.io/badge/CREATIVITY-ENABLED-00FF66?style=flat-square"/>
+<img src="https://img.shields.io/badge/CYBERCULTURE-ENABLED-00FF66?style=flat-square"/>
+
+</div>
+
 ```text
------------------------------------------
-  JOHNY.EXE // END OF TRANSMISSION
-  "Good movies and questionable ideas."
------------------------------------------
+╔═══════════════════════════════════════╗
+║          USER INTERESTS               ║
+╠═══════════════════════════════════════╣
+║  🎮  Video Games                      ║
+║  💻  Technology                       ║
+║  🎨  Creative Projects                ║
+║  🌐  Internet Culture                  ║
+║  🕵️  Mystery & Investigation           ║
+║  ⚡  Digital Experiments               ║
+║  🎬  Movies & Visual Aesthetics        ║
+║  🧠  Random Ideas at 3 AM              ║
+╚═══════════════════════════════════════╝
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF66,50:101010,100:050505&height=100&section=footer"/>
+I believe technology is more than just writing code.
+
+It's about creating experiences, experimenting, solving problems and making something interesting out of an idea that appeared out of nowhere.
+
+And occasionally spending three hours fixing something caused by a missing semicolon.
+
+---
+
+<div align="center">
+
+# `05 // SYSTEM STATISTICS`
+
+**GITHUB ACTIVITY MONITOR**
+
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=hazuz-exe&show_icons=true&hide_border=true&bg_color=050A06&title_color=00FF66&icon_color=00FF66&text_color=C9D1D9&ring_color=00FF66"/>
+
+<br>
+
+<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazuz-exe&layout=compact&hide_border=true&bg_color=050A06&title_color=00FF66&text_color=C9D1D9"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# `06 // END OF TRANSMISSION`
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=16&pause=1500&color=00FF66&center=true&vCenter=true&width=550&lines=THANKS+FOR+VISITING.;SEE+YOU+IN+THE+NEXT+UPDATE.;SYSTEM+NEVER+STOPS+EVOLVING."/>
+
+<br>
+
+**🇺🇸 Thanks for exploring my digital world.**
+
+**🇧🇷 Obrigado por explorar meu mundo digital.**
+
+<br>
+
+```text
+┌───────────────────────────────────────────┐
+│                                           │
+│       JOHNY.EXE // CONNECTION CLOSED      │
+│                                           │
+│   "Good movies and questionable ideas."   │
+│                                           │
+│       [ PRESS ANY KEY TO CONTINUE ]       │
+│                                           │
+└───────────────────────────────────────────┘
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF66,50:071A0C,100:020403&height=130&section=footer"/>
 
 </div>
 
 <!-- END OF JOHNY.EXE -->
-
-
-<!--
-**hazuz-exe/hazuz-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
