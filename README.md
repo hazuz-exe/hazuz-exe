@@ -53,37 +53,45 @@ Não tenho tudo planejado. Na verdade, esse é meio que o objetivo.
 
 ---
 
-## `> language_scanner.exe`
-
-```bash
-[ JOHNY.EXE // LANGUAGE ANALYSIS ]
-
-Scanning developer skills...
-Analyzing knowledge levels...
-Generating report...
-
-[01] HTML          [████████░░] INTERMEDIATE / ADVANCED
-[02] CSS           [██████░░░░] INTERMEDIATE
-[03] JAVASCRIPT    [██░░░░░░░░] BEGINNER
-
-----------------------------------------
-SCAN COMPLETE
-STATUS: STILL LEARNING...
-----------------------------------------
-```
+## `> root_access.exe`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github,windows&theme=dark" />
+<table>
+<tr>
+<td width="100%" bgcolor="#07140B">
+
+<pre>
+  JOHNY.EXE // SKILL MONITOR
+  ==========================
+  USER: HAZUZ-EXE
+  STATUS: ONLINE
+</pre>
+
+<b>HTML — INTERMEDIATE / ADVANCED</b><br>
+<code><font color="#00FF66">████████</font><font color="#183322">░░</font></code> <code>80%</code>
+
+<br>
+
+<b>CSS — INTERMEDIATE</b><br>
+<code><font color="#00FF66">██████</font><font color="#183322">░░░░</font></code> <code>60%</code>
+
+<br>
+
+<b>JAVASCRIPT — BEGINNER</b><br>
+<code><font color="#00FF66">██</font><font color="#183322">░░░░░░░░</font></code> <code>20%</code>
+
+<pre>
+  ==========================
+  SCAN: COMPLETE
+  SYSTEM: EVOLVING...
+</pre>
+
+</td>
+</tr>
+</table>
 
 </div>
-
-> Knowledge is constantly evolving. This system is still receiving updates.
->
-> O conhecimento está sempre evoluindo. Este sistema ainda está recebendo atualizações.
-
----
-
 ## `> projects.exe`
 
 **SELECTED PROJECTS // DEVELOPMENT LOG**
